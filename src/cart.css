@@ -1,0 +1,28 @@
+.c{
+    background-color:pink;
+    width: 50vw;
+    margin-left: 70vw;
+    height: 30vw;
+    position: absolute;
+    padding:2vw;
+}
+.m{
+    font-weight: bold;
+    margin: 1.5vw;
+
+}
+.img{
+    width: 2.5vw;
+
+}
+.tit{
+    margin-bottom: 1vw; 
+    padding:1vw;
+    
+}
+.pri{
+    padding:1vw; 
+}
+.q{
+    padding:1vw;
+}

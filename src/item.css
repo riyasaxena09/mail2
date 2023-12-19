@@ -1,0 +1,18 @@
+/* styles.css */
+.image-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .image-item {
+    flex: 0 0 30%; /* Adjust the width as needed, considering margins and padding */
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  

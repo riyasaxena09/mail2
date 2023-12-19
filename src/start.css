@@ -1,0 +1,20 @@
+.list{
+    display: flex;
+  background-color: black;
+  margin:0vw;
+  color: bisque;
+justify-content: center;
+}
+.li{
+    padding: 2vw;
+}
+.cart{
+    padding-left: 50vw;
+   padding-top: 2vw;
+}
+.gen{
+  margin-left: 35vw;
+    color:black;
+font-size: 2vw;
+}
+
