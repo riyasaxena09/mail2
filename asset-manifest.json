@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mail2/static/css/main.27141464.css",
+    "main.js": "/mail2/static/js/main.d7052e40.js",
+    "index.html": "/mail2/index.html",
+    "main.27141464.css.map": "/mail2/static/css/main.27141464.css.map",
+    "main.d7052e40.js.map": "/mail2/static/js/main.d7052e40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27141464.css",
+    "static/js/main.d7052e40.js"
+  ]
+}
